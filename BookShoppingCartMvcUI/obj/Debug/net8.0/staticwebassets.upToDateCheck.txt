@@ -1,0 +1,6 @@
+wwwroot\css\bootstrap.min.css
+wwwroot\favicon.ico
+wwwroot\images\core.jpg
+wwwroot\images\Eframework-core-5.jpg
+wwwroot\images\hobbit.jfif
+wwwroot\images\NoImage.png

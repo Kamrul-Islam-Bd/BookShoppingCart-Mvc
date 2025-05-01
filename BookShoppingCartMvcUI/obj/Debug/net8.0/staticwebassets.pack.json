@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "I:\\IDB_IT_ALL_Notes\\IsDB BISEW All Module\\New folder\\BookShoppingCart-Mvc\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShoppingCartMvcUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookShoppingCartMvcUI.ljzhhkmp38.bundle.scp.css"
+    },
+    {
+      "Id": "I:\\IDB_IT_ALL_Notes\\IsDB BISEW All Module\\New folder\\BookShoppingCart-Mvc\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "I:\\IDB_IT_ALL_Notes\\IsDB BISEW All Module\\New folder\\BookShoppingCart-Mvc\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "I:\\IDB_IT_ALL_Notes\\IsDB BISEW All Module\\New folder\\BookShoppingCart-Mvc\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\Eframework-core-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Eframework-core-5.jpg"
+    },
+    {
+      "Id": "I:\\IDB_IT_ALL_Notes\\IsDB BISEW All Module\\New folder\\BookShoppingCart-Mvc\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\NoImage.png",
+      "PackagePath": "staticwebassets\\images\\NoImage.png"
+    },
+    {
+      "Id": "I:\\IDB_IT_ALL_Notes\\IsDB BISEW All Module\\New folder\\BookShoppingCart-Mvc\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\core.jpg",
+      "PackagePath": "staticwebassets\\images\\core.jpg"
+    },
+    {
+      "Id": "I:\\IDB_IT_ALL_Notes\\IsDB BISEW All Module\\New folder\\BookShoppingCart-Mvc\\BookShoppingCart-Mvc\\BookShoppingCartMvcUI\\wwwroot\\images\\hobbit.jfif",
+      "PackagePath": "staticwebassets\\images\\hobbit.jfif"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookShoppingCartMvcUI.props",
+      "PackagePath": "build\\BookShoppingCartMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookShoppingCartMvcUI.props",
+      "PackagePath": "buildMultiTargeting\\BookShoppingCartMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookShoppingCartMvcUI.props",
+      "PackagePath": "buildTransitive\\BookShoppingCartMvcUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

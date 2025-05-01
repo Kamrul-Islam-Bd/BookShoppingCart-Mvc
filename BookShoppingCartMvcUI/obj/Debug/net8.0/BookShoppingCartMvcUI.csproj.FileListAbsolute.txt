@@ -1,0 +1,1076 @@
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\appsettings.json
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.staticwebassets.runtime.json
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.exe
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.deps.json
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.runtimeconfig.json
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.pdb
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.csproj.AssemblyReference.cache
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.AssemblyInfoInputs.cache
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.AssemblyInfo.cs
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.csproj.CoreCompileInputs.cache
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.RazorAssemblyInfo.cache
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.RazorAssemblyInfo.cs
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.build.BookShoppingCartMvcUI.props
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookShoppingCartMvcUI.props
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookShoppingCartMvcUI.props
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\bundle\BookShoppingCartMvcUI.styles.css
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\projectbundle\BookShoppingCartMvcUI.bundle.scp.css
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShop.AE48A4C8.Up2Date
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\refint\BookShoppingCartMvcUI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.pdb
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.genruntimeconfig.cache
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master\BookShoppingCartMvcUI\obj\Debug\net8.0\ref\BookShoppingCartMvcUI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\appsettings.json
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.staticwebassets.runtime.json
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.exe
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.deps.json
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.runtimeconfig.json
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.pdb
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.csproj.AssemblyReference.cache
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.AssemblyInfoInputs.cache
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.AssemblyInfo.cs
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.csproj.CoreCompileInputs.cache
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.RazorAssemblyInfo.cache
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.RazorAssemblyInfo.cs
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.build.BookShoppingCartMvcUI.props
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookShoppingCartMvcUI.props
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookShoppingCartMvcUI.props
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\bundle\BookShoppingCartMvcUI.styles.css
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\projectbundle\BookShoppingCartMvcUI.bundle.scp.css
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShop.AE48A4C8.Up2Date
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\refint\BookShoppingCartMvcUI.dll
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.pdb
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.genruntimeconfig.cache
+C:\Users\Faculty\Downloads\BookShoppingCart-Mvc-master\BookShoppingCart-Mvc-master - Copy\BookShoppingCartMvcUI\obj\Debug\net8.0\ref\BookShoppingCartMvcUI.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\appsettings.json
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.staticwebassets.runtime.json
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.exe
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.deps.json
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.runtimeconfig.json
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.pdb
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.csproj.AssemblyReference.cache
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.AssemblyInfoInputs.cache
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.AssemblyInfo.cs
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.csproj.CoreCompileInputs.cache
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.RazorAssemblyInfo.cache
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.RazorAssemblyInfo.cs
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.build.BookShoppingCartMvcUI.props
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookShoppingCartMvcUI.props
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookShoppingCartMvcUI.props
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\bundle\BookShoppingCartMvcUI.styles.css
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\projectbundle\BookShoppingCartMvcUI.bundle.scp.css
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShop.AE48A4C8.Up2Date
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\refint\BookShoppingCartMvcUI.dll
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.pdb
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.genruntimeconfig.cache
+C:\Users\SCSL21\Downloads\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\ref\BookShoppingCartMvcUI.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\appsettings.Development.json
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\appsettings.json
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.staticwebassets.runtime.json
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.staticwebassets.endpoints.json
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.exe
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.deps.json
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.runtimeconfig.json
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\BookShoppingCartMvcUI.pdb
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Azure.Core.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Azure.Identity.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Humanizer.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Build.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.JSInterop.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Mono.TextTemplating.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\Newtonsoft.Json.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Common.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Configuration.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Frameworks.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.LibraryModel.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Packaging.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.ProjectModel.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Protocol.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\NuGet.Versioning.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.CodeDom.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.Convention.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.Hosting.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.Runtime.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Drawing.Common.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Memory.Data.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Runtime.Caching.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Security.Permissions.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\System.Windows.Extensions.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\af\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ar\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\az\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\bg\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\da\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\el\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fa\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\he\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\hr\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\hu\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\hy\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\id\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\is\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ku\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\lv\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\mt\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\nb\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\nl\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pt\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ro\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\sk\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\sl\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\sr\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\sv\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\uk\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\vi\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.csproj.AssemblyReference.cache
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.GeneratedMSBuildEditorConfig.editorconfig
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.AssemblyInfoInputs.cache
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.AssemblyInfo.cs
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.csproj.CoreCompileInputs.cache
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.MvcApplicationPartsAssemblyInfo.cs
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.MvcApplicationPartsAssemblyInfo.cache
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.RazorAssemblyInfo.cache
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.RazorAssemblyInfo.cs
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\bundle\BookShoppingCartMvcUI.styles.css
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\projectbundle\BookShoppingCartMvcUI.bundle.scp.css
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets.build.json
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets.development.json
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssets.props
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.build.BookShoppingCartMvcUI.props
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookShoppingCartMvcUI.props
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookShoppingCartMvcUI.props
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets.pack.json
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShop.AE48A4C8.Up2Date
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\refint\BookShoppingCartMvcUI.dll
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.pdb
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.genruntimeconfig.cache
+I:\IDB_IT_ALL_Notes\IsDB BISEW All Module\New folder\BookShoppingCart-Mvc\BookShoppingCart-Mvc\BookShoppingCartMvcUI\obj\Debug\net8.0\ref\BookShoppingCartMvcUI.dll
